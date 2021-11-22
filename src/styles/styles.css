@@ -21,3 +21,10 @@ h1 {
     width: 200px;
     margin: 0 auto;
 }
+
+.code {
+    margin: 10px;
+    border: 2px solid black;
+    padding: 8px;
+    border-radius: 15px;
+}
